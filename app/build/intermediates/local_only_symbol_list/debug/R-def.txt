@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+color purple_500
+color white
+id btnLogin
+id etCorreo
+id etPassword
+id guideBottom
+id guideLeft
+id guideRight
+id guideTop
+layout activity_main
+string app_name
+style AppTheme
